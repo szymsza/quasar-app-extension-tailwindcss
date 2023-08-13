@@ -1,5 +1,5 @@
 {
-  "name": "quasar-app-extension-tailwindcss",
+  "name": "quasar-app-extension-tailwindcss-2217",
   "version": "2.0.6",
   "description": "Integration of TailwindCSS into Quasar Framework",
   "author": "Matthias Sondermann <sondermann.m@gmail.com>",
@@ -33,6 +33,6 @@
     "autoprefixer": "^9.8.6",
     "inquirer": "^7.0.0",
     "postcss": "^7.0.35",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.1"
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17"
   }
 }
